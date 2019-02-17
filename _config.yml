@@ -1,0 +1,8 @@
+title: Julien St-Laurent
+description: GitHub Pages test
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
