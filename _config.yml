@@ -1,7 +1,7 @@
-title: Julien St-Laurent
-description: GitHub Pages test
-google_analytics: 
-show_downloads: true
+title: An Island On The Net
+description: The various musings and ruminations of Julien St-Laurent
+google_analytics: UA-134616757-1
+show_downloads: false
 theme: jekyll-theme-hacker
 
 gems:
