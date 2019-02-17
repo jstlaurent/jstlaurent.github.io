@@ -4,9 +4,6 @@ title:  "To New Beginnings!"
 categories: [blog]
 tags: [beginnings]
 ---
-
-# To New Beginnings!
-
 I've recently started a new role as a team lead. This is a significant step for me, as management is something I have 
 been on receiving end of, for most of my career. I've decided to start writing again, for two main reasons:
 
